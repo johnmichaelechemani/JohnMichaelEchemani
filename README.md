@@ -2,9 +2,8 @@
 
 ![bg](https://github.com/johnmichaelechemani/JohnMichaelEchemani/assets/112184334/833f92d2-033c-4b89-9223-e6e0d6c81eba)
 
-### Welcome!
-### About me
-
+ ### About me 🐥
+Hi, i'm a 4th year college and a junior front-end developer.
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
