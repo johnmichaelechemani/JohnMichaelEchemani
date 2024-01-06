@@ -2,7 +2,7 @@
 
 
  ### About me 🐥
-Hi, i'm a 4th year college and a junior front-end developer.
+Hi, i'm a 4th year college and a front-end developer.
 
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
