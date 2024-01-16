@@ -4,6 +4,8 @@
  ### About me 🐥
 Hi, i'm a 4th year college and a front-end developer.
 
+
+🌱 I’m currently learning REACT.JS
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
