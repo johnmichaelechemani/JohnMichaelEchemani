@@ -7,8 +7,8 @@
 <hr>
 <h3 align="left">Socials:</h3>
 <p align="left" >
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/johnmichaelechemani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johnmichaelechemani/" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/jmechemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jmechemani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/johnmichaelechemani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johnmichaelechemani/" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/jmechemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jmechemani" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Tools i work on:</h3>
