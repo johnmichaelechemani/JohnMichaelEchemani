@@ -15,7 +15,7 @@
 
 <h3 align="left">Tools i work on:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma)
 
 <hr>
 
