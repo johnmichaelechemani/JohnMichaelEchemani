@@ -6,6 +6,10 @@ Hi, i'm a 4th year college and a front-end developer.
 
 
 🌱 I’m currently learning REACT.JS
+
+Tools i work on:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react)](https://skillicons.dev)
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
