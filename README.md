@@ -11,7 +11,7 @@
   <a href="https://fb.com/https://www.facebook.com/jmechemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jmechemani" height="30" width="40" /></a>
 </p>
 <hr>
-Tools i work on:
+<h3 align="left">Tools i work on:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma)](https://skillicons.dev)
 
