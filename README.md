@@ -17,10 +17,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma)
 
-<hr>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmichaelechemani&" alt="johnmichaelechemani" /></p>
-
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
