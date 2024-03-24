@@ -15,7 +15,7 @@
 
 <h3 align="left">Tools i work on:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma,php)
 
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
