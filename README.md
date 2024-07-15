@@ -1,6 +1,6 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Poppins&weight=900&size=30&pause=8012&color=F7F7F1&random=false&width=435&lines=I'm+John+Michael+Echemani" alt="Typing SVG" /></a></a></h1>
-<p align="center">Passionate front end developer</p>
+<p align="center">Junior front end developer</p>
 <p align="center">🌱 I’m currently learning REACT.JS</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmichaelechemani&label=Profile%20views&color=0e75b6&style=flat" alt="johnmichaelechemani" /> </p>
