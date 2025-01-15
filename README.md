@@ -1,7 +1,8 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Poppins&weight=900&size=30&pause=8012&color=F7F7F1&random=false&width=435&lines=I'm+John+Michael+Echemani" alt="Typing SVG" /></a></a></h1>
-<p align="center">I write, solve and design</p>
-<p align="center">🌱 I’m currently learning REACT, NEXT & VUE</p>
+<p align="start"># Hello there👋</p>
+<p align="start">
+I'm a frontend-focused web developer who loves creating beautiful, responsive user interfaces. My expertise lies in modern JavaScript frameworks like Vue.js and React, paired with Tailwind CSS to craft pixel-perfect designs. While I'm have knowledge working with PHP, Firebase, and MySQL for backend integration, my true passion is bringing designs to life on the frontend. Currently excited to grow and collaborate on projects that push the boundaries of web experiences.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmichaelechemani&label=Profile%20views&color=0e75b6&style=flat" alt="johnmichaelechemani" /> </p>
 <hr>
