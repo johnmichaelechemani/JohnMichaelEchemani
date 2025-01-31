@@ -16,7 +16,7 @@ I'm a frontend-focused web developer who loves creating beautiful, responsive us
 
 <h3 align="left">Tools i work on:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma,php)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma,php,net,visualstudio,github)
 
 <!--
 **johnmichaelechemani/JohnMichaelEchemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
